@@ -56,18 +56,45 @@ Vietnam | 09/2019 – 04/2021
 - Boosted monthly sales to 200 orders and expanded the Facebook page to 5,000 followers.
 
 ## PROJECT EXPERIENCE
-**Kinh Thánh Bánh Kem – Publication project of a book on the history of cakes and their cultural influence**  
-Editor in Chief, Book Illustrator  
-Hanoi | 05/2023 – 07/2023  
-- Directed book structure and manuscript organization, led the editorial team, and created visual identity and media materials.
-- Successfully published the paperback version of the book, sold 300+ copies, with 70% of net profits (4 million VND) donated to Hanoi S.O.S Children's Village, and increased pre-launch social media engagement by 25%.
+**DreamScape app**  
+Feb 2025 - Present  
+- DreamScape is a personal growth web application built using React Native, designed to help users visualize their aspirations, set goals, track habits, and reflect on their journey.
+- Key Features: Interactive Vision Board (with drag-and-drop); SMART Goal Setting; Habit Tracker; Reflection Journal with Mood Tracking; Reading List Manager; Daily Affirmations.
+- Status: Beta (actively seeking feedback).
+- Built as my first major front-end project, I'm continuing to develop and improve DreamScape.
+- Skills: User Experience (UX), Figma, Front-End Development, React.js, Google Analytics, User Interface Design, User Experience Design (UED), Adobe Illustrator, JavaScript.
 
-**TABALO – Tourism propaganda and promotion project for the Northwestern mountainous region of Vietnam**  
-Chief Designer, Social Media Manager & Photographer  
-Hanoi | 11/2022 – 01/2023  
-- Utilized analytics to guide content strategy and enhance the project's reach and impact, boosted social media engagement, and gained 1,800 Facebook followers within a month.
-- Directed the design and production of TABALO's magazine, contributing to its successful sale of 200 copies.
-- Responsibility for the project's visual content and other media materials.
+**Kinh Thánh Bánh Kem · The Baking Bible**  
+May 2023 - Jun 2023  
+- Role: Editor-in-Chief & Co-Author.
+- Overview: A collaborative publishing project exploring the art and history of baking, combining creative storytelling with visually engaging design to produce a comprehensive and captivating book.
+- Contributions:
+  - Book Development: Created the outline, authored the first half ("Upstream of Sweetness"), and shaped the book's narrative.
+  - Editorial Leadership: Managed a team of editors, ensuring high-quality output and timely delivery.
+  - Visual Design: Designed the book cover and promotional materials, establishing a cohesive brand identity.
+  - Illustration Oversight: Directed the illustration process to align with the book's tone and content.
+  - Editing: Supervised the editing of "KINH THÁNH BÁNH KEM," ensuring clarity and error-free content.
+- Skills: Branding & Identity, Microsoft PowerPoint, Team Building, Team Leadership, Book Illustration, Creative Strategy, Editing, eBook Publishing, Management, Adobe InDesign, Book Writing, Adobe Photoshop, Adobe Illustrator.
+
+**STUDYGRAM – Gen Z Why Not?**  
+Mar 2023 - Apr 2023  
+- Role: Social Media Designer & Book Cover Designer.
+- Overview: A student-led project in Hanoi redefining learning for Gen Z through innovative book publishing and media, blending storytelling with modern formats.
+- Contributions:
+  - Designed engaging social media content (images, videos, graphics), increasing engagement by 63% and followers by 80%.
+  - Created book covers, illustrations, and bundled gifts (postcards, bookmarks, planners), driving a 70% rise in pre-orders.
+  - Analyzed social metrics to optimize strategy, building 760 Facebook fans and 6,600 page visits in two weeks.
+- Skills: Branding & Identity, Microsoft PowerPoint, Team Building, Creative Strategy, Editing, eBook Publishing, Book Illustration, Project Management, Social Media, Adobe Photoshop, Adobe Illustrator, Social Media Graphic Design.
+
+**TABALO**  
+Nov 2022 - Dec 2022  
+- Role: Main Designer & Social Media Manager.
+- Overview: A student-led initiative in Hanoi promoting the cultural heritage of Vietnam's Tây Bắc region through social media, design, and content creation.
+- Contributions:
+  - Developed a social media strategy, increasing engagement by 60% and followers by 40%, reaching 1,500 hits/article and 1,000 Facebook followers in 1.5 months.
+  - Designed TABALO's visual identity, including logos, posters, and flyers.
+  - Produced and sold 150 copies of TABALO's magazine, while analyzing social metrics for strategy optimization.
+- Skills: Branding & Identity, Microsoft PowerPoint, Social Media Marketing, Magazine Design, Creative Strategy, Book Illustration, Social Media, Adobe Photoshop, Adobe Illustrator, Social Media Graphic Design.
 
 ## SKILLS
 **Technical:**  
